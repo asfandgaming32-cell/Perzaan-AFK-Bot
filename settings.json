@@ -2,12 +2,12 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "PerzaanLive",
-    "password": "",
+    "password": "Perzuu",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "khii.aternos.me",
+    "port": 33705,
     "version": "1.21.1"
   },
   "position": {
@@ -16,7 +16,7 @@
     "y": 100,
     "z": 0
   },
-  "utils": {
+  "utils": 
     "auto-auth": {
       "enabled": true,
       "password": "Perzuu"
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "bhenchodddd",
+        "ohh my goiodddd"
       ]
     },
     "chat-log": true,
